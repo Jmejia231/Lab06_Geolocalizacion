@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Geolocalizacion</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ok">OK</string>
+    <string name="kilometro">" Km."</string>
+    <string name="hay">"Hay: "</string>
+    <string name="desde">"Desde: "</string>
+    <string name="hasta">"Hasta: "</string>
+    <string name="actual">Ubicacion Actual</string>
+    <string name="destino">Ubicacion Final</string>
+    <string name="falloCargaMapa">Fallo al cargar estilo del mapa</string>
+    <string name="distancia">Distancia</string>
+    <string name="noCargarEstilo">No es posible hallar el estilo. Error: </string>
+    <string-array name="tipos">
+        <item>Tipo Mapa - Icono - Pais</item>
+        <item>Normal - Mundo - Japon</item>
+        <item>Hibrido - Satelite - Alemania</item>
+        <item>Satelital - Montañas - Italia</item>
+        <item>Terreno - Planos - Francia</item>
+    </string-array>
+</resources>
